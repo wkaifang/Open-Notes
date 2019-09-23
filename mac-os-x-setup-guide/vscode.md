@@ -4,7 +4,6 @@ ms-vscode.Go
 redhat.vscode-yaml
 DotJoshJohnson.xml
 
-
 ecmel.vscode-html-css
 abusaidm.html-snippets
 xabikos.JavaScriptSnippets
