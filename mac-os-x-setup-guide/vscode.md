@@ -29,6 +29,7 @@ EditorConfig.EditorConfig
 Shan.code-settings-sync
 alefragnani.project-manager
 alefragnani.Bookmarks
+joelday.docthis
 aaron-bond.better-comments
 eg2.vscode-npm-script
 
