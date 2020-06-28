@@ -45,25 +45,5 @@ $ npm install -g async colors commander debug request glob
 $ npm install -g create-react-app vue-cli
 $ npm install -g express eslint cordova
 $ npm install -g webpack webpack-dev-server
-$ npm install -g yo generator-node generator-webapp
 $ npm install -g pm2 nodemonnode-gyp node-sass
-```
-
-## Nginx
-
-```
-# HTTP server
-#
-server {
-listen       88;
-server_name  localhost;
-
-location / {
-root   /Users/Domy/GitHub/Front-end;
-autoindex on;
-autoindex_exact_size off;
-autoindex_localtime on;
-index  index.html;
-}
-}
 ```
