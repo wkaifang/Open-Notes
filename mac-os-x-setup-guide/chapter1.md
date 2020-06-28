@@ -21,11 +21,11 @@ $ pbcopy < ~/.ssh/id_rsa.pub
 
 ```
 $ brew install autojump wget openssl tree readline xz
-$ brew install git --with-gettext
+$ brew install git
 $ brew install git-flow pkg-config
 $ brew install maven tomcat
 $ brew install redis mongodb sqlite
-$ brew install node yarn phantomjs nginx
+$ brew install node yarn nginx
 $ brew install ruby python python3
 $ brew install vim macvim
 ```
@@ -67,44 +67,3 @@ index  index.html;
 }
 }
 ```
-
-## Atom
-
-```
-$ apm install activate-power-mode
-$ apm install atom-beautify
-$ apm install atom-handlebars
-$ apm install atom-material-ui
-$ apm install atom-ternjs
-$ apm install autoclose-html
-$ apm install autocomplete-modules
-$ apm install autoprefixer
-$ apm install color-picker
-$ apm install editorconfig
-$ apm install emmet
-$ apm install file-icons
-$ apm install highlight-selected
-$ apm install javascript-snippets
-$ apm install jquery-snippets
-$ apm install jsformat
-$ apm install language-babel
-$ apm install language-nginx
-$ apm install language-vue
-$ apm install linter-csslint
-$ apm install linter-eslint
-$ apm install linter-htmlhint
-$ apm install merge-conflicts
-$ apm install minimap
-$ apm install monokai
-$ apm install pigments
-$ apm install project-manager
-$ apm install script
-$ apm install vim-mode
-```
-
-```
-ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
-```
-
-[https://www.sublimetext.com/docs/3/osx\_command\_line.html](https://www.sublimetext.com/docs/3/osx_command_line.html)
-
