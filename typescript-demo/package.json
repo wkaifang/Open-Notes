@@ -1,0 +1,12 @@
+{
+  "name": "typescript-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "kaifang.wang <hi@kaifang.wang>",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}

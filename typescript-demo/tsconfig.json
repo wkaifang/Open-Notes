@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNEXT", // 指定 ECMAScript 目标版本: 'ES3' (default), 'ES5', 'ES6'/'ES2015', 'ES2016', 'ES2017', or 'ESNEXT'
+    "module": "CommonJS" // 指定使用模块: 'commonjs', 'amd', 'system', 'umd' or 'es2015'
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
+}
